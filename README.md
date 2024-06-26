@@ -19,6 +19,8 @@ How?
 ● Digital
 
 Digital
+
+
 ● Though there are different possible methods available, we would go with digital steganography.
 
 ● In digital method the message is concealed within the lowest bits of images or sound files.
