@@ -12,6 +12,7 @@ Where?
 ● Medical-imaging and so on.
 
 How?
+
 ● Physical 
 ● Prints and paints
 ● Puzzles
